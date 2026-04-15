@@ -46,4 +46,4 @@ st.write("Your cookies:", st.session_state.counter)
 
 st.header("Regression Image")
 
-st.image("/Users/graysonmoody/Desktop/streamlit_project/CookieRegressionAnalysis.png", caption="Cookie Regression Plot")
+st.image("CookieRegressionAnalysis.png", caption="Cookie Regression Plot")
